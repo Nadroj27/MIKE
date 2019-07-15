@@ -12,7 +12,7 @@ This project responds to the problem of coaching by application or web services 
 Customers will interact with the project through an application on Smartphone (iOs and Android). They will also be able to connect a bracelet or watch to this application in order to get a more effective feedback on their movements and activities.
 
 
-<img src="Images/mike1.png" width="400" >
+<img src="Images/mike.png" width="400" >
 
 
 <img src="Images/mike2.png" width="400" >
